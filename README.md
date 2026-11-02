@@ -130,8 +130,8 @@ Screens S&P 500 stocks using a composite Relative Value (RV) Score derived from 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Algorithmic-Trading-Strategies.git
-cd Algorithmic-Trading-Strategies
+git clone https://github.com/bede-lau/Algorithmic_Trading_Strategies.git
+cd Algorithmic_Trading_Strategies
 
 # Create virtual environment
 python -m venv venv
