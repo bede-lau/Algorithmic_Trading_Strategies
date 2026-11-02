@@ -1,4 +1,19 @@
-# Algorithmic Trading Strategies
+<h1 align="center">Algorithmic Trading Strategies</h1>
+<p align="center"><b>Five research workflows, from signals and forecasts to portfolio construction.</b></p>
+
+## ▍At a glance
+
+```mermaid
+flowchart LR
+ A["Market · fundamentals<br/>sentiment · factor data"] --> B["Signals + features"]
+ B --> C["Ranking · clustering<br/>volatility models"]
+ C --> D["Portfolio weights<br/>or trade signals"]
+ D --> E["Backtests · charts<br/>screening exports"]
+```
+
+Backtests are hypothetical, depend on data and assumptions, and do not include all real-world costs.
+
+---
 
 A collection of quantitative trading strategies implemented in Python, spanning social media sentiment analysis, equal-weight portfolio construction, unsupervised machine learning with factor models, volatility forecasting, and fundamental value screening.
 
