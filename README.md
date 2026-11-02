@@ -21,7 +21,7 @@ Cap-weight is a bet on size. The alternatives here are five separate Python scri
 
 One ranks 85 names by Twitter comments over likes and compares them with QQQ. One prices the first 300 tickers in a constituent file and writes a share count. One clusters liquid S&P 500 names and holds cluster 3 against SPY. One fits GARCH(1,3) to a simulated daily series. One scores the first 25 tickers on five valuation ratios and writes a spreadsheet.
 
-Nothing in this repo submits an order.
+Nothing in this repo submits an order. Backtests are hypothetical, depend on data and assumptions, and do not include all real-world costs.
 
 ## ▍The pipeline at a glance
 
